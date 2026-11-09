@@ -1,0 +1,33 @@
+[project]
+name = "headstorm-menu"
+version = "0.1.0"
+description = "MenuSync AI: restaurant menu images to structured items and prices with EasyOCR and spatial line grouping"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "easyocr>=1.7.2",
+    "gradio>=5.0",
+    "numpy>=1.26",
+    "opencv-python-headless>=4.10",
+    "pandas>=2.2",
+    "pillow>=10.4",
+    "pytest>=8.0",
+    "ruff>=0.6",
+    "uvicorn>=0.30",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.ruff]
+extend-exclude = ["common"]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "B", "UP"]

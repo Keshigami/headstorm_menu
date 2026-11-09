@@ -1,0 +1,436 @@
+{
+  "menu_01.png": {
+    "restaurant": "Bistro 2026",
+    "categories": [
+      {
+        "name": "Drinks",
+        "items": [
+          {
+            "name": "Iced Tea",
+            "price": 3.0
+          },
+          {
+            "name": "Craft Beer",
+            "price": 8.5
+          },
+          {
+            "name": "Red Wine",
+            "price": 11.0
+          },
+          {
+            "name": "Espresso",
+            "price": 3.5
+          }
+        ]
+      },
+      {
+        "name": "Appetizers",
+        "items": [
+          {
+            "name": "Calamari",
+            "price": 12.99
+          },
+          {
+            "name": "Soup of the Day",
+            "price": 7.25
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "items": [
+          {
+            "name": "French Fries",
+            "price": 5.0
+          },
+          {
+            "name": "Mashed Potatoes",
+            "price": 6.0
+          }
+        ]
+      },
+      {
+        "name": "Desserts",
+        "items": [
+          {
+            "name": "Lemon Tart",
+            "price": 7.5
+          },
+          {
+            "name": "Cheesecake",
+            "price": 8.0
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Veggie Burger",
+            "price": 16.0
+          },
+          {
+            "name": "Chicken Tikka",
+            "price": 18.75
+          }
+        ]
+      }
+    ]
+  },
+  "menu_02.png": {
+    "restaurant": "Harbor Grill",
+    "categories": [
+      {
+        "name": "Sides",
+        "items": [
+          {
+            "name": "Grilled Corn",
+            "price": 4.5
+          },
+          {
+            "name": "French Fries",
+            "price": 5.0
+          }
+        ]
+      },
+      {
+        "name": "Appetizers",
+        "items": [
+          {
+            "name": "Bruschetta",
+            "price": 9.0
+          },
+          {
+            "name": "Soup of the Day",
+            "price": 7.25
+          },
+          {
+            "name": "Garlic Bread",
+            "price": 6.5
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "items": [
+          {
+            "name": "Espresso",
+            "price": 3.5
+          },
+          {
+            "name": "Craft Beer",
+            "price": 8.5
+          }
+        ]
+      },
+      {
+        "name": "Desserts",
+        "items": [
+          {
+            "name": "Cheesecake",
+            "price": 8.0
+          },
+          {
+            "name": "Tiramisu",
+            "price": 9.0
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Pasta Carbonara",
+            "price": 19.5
+          },
+          {
+            "name": "Chicken Tikka",
+            "price": 18.75
+          },
+          {
+            "name": "Mushroom Risotto",
+            "price": 21.0
+          },
+          {
+            "name": "Veggie Burger",
+            "price": 16.0
+          }
+        ]
+      }
+    ]
+  },
+  "menu_03.png": {
+    "restaurant": "Casa Verde",
+    "categories": [
+      {
+        "name": "Desserts",
+        "items": [
+          {
+            "name": "Cheesecake",
+            "price": 8.0
+          },
+          {
+            "name": "Tiramisu",
+            "price": 9.0
+          },
+          {
+            "name": "Lemon Tart",
+            "price": 7.5
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "items": [
+          {
+            "name": "Cole Slaw",
+            "price": 4.0
+          },
+          {
+            "name": "Mashed Potatoes",
+            "price": 6.0
+          },
+          {
+            "name": "Grilled Corn",
+            "price": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Mushroom Risotto",
+            "price": 21.0
+          },
+          {
+            "name": "Ribeye Steak",
+            "price": 34.99
+          },
+          {
+            "name": "Grilled Salmon",
+            "price": 28.0
+          },
+          {
+            "name": "Pasta Carbonara",
+            "price": 19.5
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "items": [
+          {
+            "name": "Red Wine",
+            "price": 11.0
+          },
+          {
+            "name": "Iced Tea",
+            "price": 3.0
+          },
+          {
+            "name": "Espresso",
+            "price": 3.5
+          },
+          {
+            "name": "Craft Beer",
+            "price": 8.5
+          }
+        ]
+      },
+      {
+        "name": "Appetizers",
+        "items": [
+          {
+            "name": "Garlic Bread",
+            "price": 6.5
+          },
+          {
+            "name": "Bruschetta",
+            "price": 9.0
+          },
+          {
+            "name": "Soup of the Day",
+            "price": 7.25
+          }
+        ]
+      }
+    ]
+  },
+  "menu_04.png": {
+    "restaurant": "Noodle Lab",
+    "categories": [
+      {
+        "name": "Desserts",
+        "items": [
+          {
+            "name": "Lemon Tart",
+            "price": 7.5
+          },
+          {
+            "name": "Cheesecake",
+            "price": 8.0
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Mushroom Risotto",
+            "price": 21.0
+          },
+          {
+            "name": "Veggie Burger",
+            "price": 16.0
+          },
+          {
+            "name": "Grilled Salmon",
+            "price": 28.0
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "items": [
+          {
+            "name": "Red Wine",
+            "price": 11.0
+          },
+          {
+            "name": "Iced Tea",
+            "price": 3.0
+          },
+          {
+            "name": "Espresso",
+            "price": 3.5
+          }
+        ]
+      },
+      {
+        "name": "Appetizers",
+        "items": [
+          {
+            "name": "Soup of the Day",
+            "price": 7.25
+          },
+          {
+            "name": "Bruschetta",
+            "price": 9.0
+          },
+          {
+            "name": "Garlic Bread",
+            "price": 6.5
+          },
+          {
+            "name": "Calamari",
+            "price": 12.99
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "items": [
+          {
+            "name": "Cole Slaw",
+            "price": 4.0
+          },
+          {
+            "name": "Mashed Potatoes",
+            "price": 6.0
+          }
+        ]
+      }
+    ]
+  },
+  "menu_05.png": {
+    "restaurant": "The Food Spot",
+    "categories": [
+      {
+        "name": "Desserts",
+        "items": [
+          {
+            "name": "Cheesecake",
+            "price": 8.0
+          },
+          {
+            "name": "Lemon Tart",
+            "price": 7.5
+          },
+          {
+            "name": "Tiramisu",
+            "price": 9.0
+          }
+        ]
+      },
+      {
+        "name": "Sides",
+        "items": [
+          {
+            "name": "French Fries",
+            "price": 5.0
+          },
+          {
+            "name": "Mashed Potatoes",
+            "price": 6.0
+          },
+          {
+            "name": "Cole Slaw",
+            "price": 4.0
+          },
+          {
+            "name": "Grilled Corn",
+            "price": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Main Course",
+        "items": [
+          {
+            "name": "Pasta Carbonara",
+            "price": 19.5
+          },
+          {
+            "name": "Veggie Burger",
+            "price": 16.0
+          }
+        ]
+      },
+      {
+        "name": "Appetizers",
+        "items": [
+          {
+            "name": "Soup of the Day",
+            "price": 7.25
+          },
+          {
+            "name": "Calamari",
+            "price": 12.99
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "items": [
+          {
+            "name": "Craft Beer",
+            "price": 8.5
+          },
+          {
+            "name": "Espresso",
+            "price": 3.5
+          },
+          {
+            "name": "Iced Tea",
+            "price": 3.0
+          },
+          {
+            "name": "Red Wine",
+            "price": 11.0
+          }
+        ]
+      }
+    ]
+  }
+}
